@@ -1,7 +1,7 @@
 ---
 title: Markdown
 date: 2015-04-20
-template: templates/article.jade
+template: article.jade
 ---
 
 ## More Markdown
