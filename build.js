@@ -8,7 +8,7 @@ Metalsmith(__dirname)
     .destination('./output/')
     .use(drafts())
     .use(markdown())
-    .use(jadeTemplater(__dirname + '/templates'))
+    .use(jadeTemplater({baseTemplatesDir: __dirname + '/templates'}))
     .build(function(err, files) {
         console.log('Build function...');
         
