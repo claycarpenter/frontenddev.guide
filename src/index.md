@@ -184,9 +184,12 @@ template: /article.jade
 * less, more?
 * Tree
 * Network utils:
-    * ping
-    * nslookup
+    * Verifying network connectivity with ping & nslookup
     * curl
+    * wget
+* Fundamental utilities: cd, pwd, which, ls, rm, rmdir, mkdir, touch
+* su, sudo?
+* ssh?
 
 ## Frontend utilities
 
