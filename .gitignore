@@ -1,2 +1,5 @@
 # Ignore build output directory.
 output
+
+# Ignore OSX files.
+.DS_Store
