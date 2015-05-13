@@ -153,6 +153,7 @@ template: /article.jade
 * Ajax
 * REST
 * Security?
+* How to keep current?
 
 ## HTTP
 
@@ -199,6 +200,7 @@ template: /article.jade
 * Yeoman?
 * Bower
 * Modernizr?
+* webpack
 
 ## Build systems
 
