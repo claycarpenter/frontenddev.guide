@@ -208,6 +208,7 @@ template: /article.jade
 * Gulp
 * Grunt
 * Brunch?
+* Metalsmith?
 
 ## Deployment
 
