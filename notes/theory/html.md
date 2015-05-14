@@ -1,6 +1,12 @@
 
 # HTML Theory
 
+## Approach
+
+This extends beyond just the HTML Theory section, but in general I think the HTML-related pages should focus on two things: clean, semantic markup and HTML5 elements. I expect that many times those two items will overlap. Clean, semantic markup is the theory, HTML5 elements are how they're achieved. Even though HTML5 doesn't have comprehensive support among all browsers, it's still widely supported enough that it's usable today, and people who are picking up HTML for the first time (or brushing up on their fundamentals) should focus a bit more into the future as that's when they'll be professionally applying their skills.
+
+## Text
+
 HTML is how you mark up content.
 
 HTML allows the browser to answer questions like this:
@@ -15,3 +21,7 @@ In the holy trinity of web development, HTML may not seem as important or sexy a
 
 https://webdesign.tutsplus.com/articles/undress-to-impress-check-your-websites-without-css--cms-22489
 This seems like a good article to reference to help convey the importance of clean HTML markup to a site's design.
+
+http://diveintohtml5.info/
+Good outline of HTML5, and excellent example of how to present that material clearly.
+
