@@ -150,9 +150,10 @@ template: /article.jade
 
 ## Other
 
-* Ajax
 * REST
 * Security?
+* Analytics
+   * Google Analytics 
 * How to keep current?
 
 ## HTTP
