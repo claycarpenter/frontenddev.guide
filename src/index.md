@@ -148,14 +148,6 @@ template: /article.jade
 * Parse
 * Firebase
 
-## Other
-
-* REST
-* Security?
-* Analytics
-   * Google Analytics 
-* How to keep current?
-
 ## HTTP
 
 * Methods
@@ -221,3 +213,11 @@ template: /article.jade
     * Digital Ocean
     * Amazon?
     * OpenShift?
+
+## Other
+
+* REST
+* Security?
+* Analytics
+   * Google Analytics 
+* How to keep current?
