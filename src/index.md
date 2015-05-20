@@ -148,12 +148,6 @@ template: /article.jade
 * Parse
 * Firebase
 
-## Other
-
-* Ajax
-* REST
-* Security?
-
 ## HTTP
 
 * Methods
@@ -200,6 +194,7 @@ template: /article.jade
 * Yeoman?
 * Bower
 * Modernizr?
+* webpack
 
 ## Build systems
 
@@ -207,6 +202,7 @@ template: /article.jade
 * Gulp
 * Grunt
 * Brunch?
+* Metalsmith?
 
 ## Deployment
 
@@ -218,3 +214,11 @@ template: /article.jade
     * Digital Ocean
     * Amazon?
     * OpenShift?
+
+## Other
+
+* REST
+* Security?
+* Analytics
+   * Google Analytics 
+* How to keep current?
