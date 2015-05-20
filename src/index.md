@@ -173,6 +173,7 @@ template: /article.jade
 * Forking
 * Pull requests
 * GitHub pages (master/gh-pages combo)
+* Issues - How to file a good issue, following up with PRs, etc.
 
 ## Command line
 
