@@ -101,10 +101,14 @@ template: /article.jade
     * Json
     * Format
     * Serializing/deserializing
-* Debugging?
-    * Node command line
-    * Theseus?
-    * Node inspector
+* Debugging
+    * Browser
+        * Chrome dev tools
+        * Firefox, Safari, IE dev tools?
+    * Node/Backend
+        * Node command line
+        * Theseus?
+        * Node inspector
 * Logging?
     * Using console.log
     * Styling console.log?
