@@ -7,7 +7,10 @@ template: /article.jade
 ## HTML5
 
 * Basics
-    * Text - headers, paragraphs, links
+    * Text
+        * Basic text: Headers, paragraphs
+        * Specially formatted text: Blockquotes, code, pre
+        * Links
     * Images?
     * Borders and backgrounds
     * Non-semantic markup: divs and spans
@@ -19,6 +22,7 @@ template: /article.jade
         * Blog post with comments
         * Newspaper article
         * Product catalog
+* Content-first design?
 * Script loading structure (CSS in head, scripts as final children of body element)
 * Multimedia
     * Audio
@@ -32,7 +36,10 @@ template: /article.jade
 ## CSS
 
 * Basics
-    * Compsition of a style rule
+    * Composition of a style rule
+    * Style rule location: internal, external, and inline
+    * Rule precedence - A bit technical for a beginner, but it will help devs avoid confusion and problems later on. It's difficult to get very far in studying CSS without having a decent grasp of this algorithm.
+    * IDs and classes - where does this go?
     * Selectors
         * Basic selectors
             * Universal
@@ -44,20 +51,28 @@ template: /article.jade
         * Box sizing
         * Colors, borders
         * Margins and padding
-    * Rule precendence
     * ???
-* Layouts
-    * Floats
-    * Flexbox
-* Responsive design
-    * Media queries
-    * Mobile-first design?
-* Animations
-* Transitions
-* Best practices
-    * CSS resets
-    * BEM
-        * http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
+* Intermediate
+    * Selectors
+        * 
+    * Layouts
+        * Floats
+        * Flexbox
+        * Grid
+    * Position
+    * Forms?
+    * Animations
+    * Transitions
+* Advanced
+    * CSS Resets
+    * Responsive design
+        * Media queries
+        * Mobile-first design?
+        * Responsive images
+    * Best practices
+        * CSS resets
+        * BEM
+            * http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
 
 
 ## JavaScript
