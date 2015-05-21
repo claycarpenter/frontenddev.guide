@@ -32,10 +32,19 @@ template: /article.jade
 ## CSS
 
 * Basics
-    * Basic typography
-    * Box sizing
-    * Colors, borders
-    * Margins and padding
+    * Compsition of a style rule
+    * Selectors
+        * Basic selectors
+            * Universal
+            * Tag
+            * ID
+            * Class
+    * Properties
+        * Basic typography
+        * Box sizing
+        * Colors, borders
+        * Margins and padding
+    * Rule precendence
     * ???
 * Layouts
     * Floats
