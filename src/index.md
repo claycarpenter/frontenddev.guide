@@ -36,7 +36,9 @@ template: /article.jade
 ## CSS
 
 * Basics
-    * Composition of a style rule
+    * Basic syntax
+        * Composition of a style rule
+        * Comments
     * Style rule location: internal, external, and inline
     * Rule precedence - A bit technical for a beginner, but it will help devs avoid confusion and problems later on. It's difficult to get very far in studying CSS without having a decent grasp of this algorithm.
     * IDs and classes - where does this go?
@@ -51,8 +53,10 @@ template: /article.jade
         * Box sizing
         * Colors, borders
         * Margins and padding
+    * Inline and block elements
     * ???
 * Intermediate
+    * Rule precedence and graceful degradation
     * Selectors
         * 
     * Layouts
@@ -66,6 +70,7 @@ template: /article.jade
 * Advanced
     * CSS Resets
     * Responsive design
+        * Rule precedence and responsive styles 
         * Media queries
         * Mobile-first design?
         * Responsive images
