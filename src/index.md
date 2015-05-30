@@ -190,6 +190,13 @@ template: /article.jade
 * Headers
 * Status codes
 
+## REST
+
+* Basics - HTTP methods, data format
+* Security
+    * Basic authentication
+    * OAuth
+
 ## Git & GitHub
 
 * Creating a new repo?
@@ -250,7 +257,6 @@ template: /article.jade
 
 ## Other
 
-* REST
 * Security?
 * Analytics
    * Google Analytics 
