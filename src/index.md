@@ -39,6 +39,7 @@ template: /article.jade
     * Basic syntax
         * Composition of a style rule
         * Comments
+    * Units - px, em, rem, percent
     * Style rule location: internal, external, and inline
     * Rule precedence - A bit technical for a beginner, but it will help devs avoid confusion and problems later on. It's difficult to get very far in studying CSS without having a decent grasp of this algorithm.
     * IDs and classes - where does this go?
@@ -58,7 +59,7 @@ template: /article.jade
 * Intermediate
     * Rule precedence and graceful degradation
     * Selectors
-        * 
+        * Pseudo-classes
     * Layouts
         * Floats
         * Flexbox
